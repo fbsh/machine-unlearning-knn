@@ -7,8 +7,8 @@ Data source:
 TODO:
 - refactor SISA from original repo
 - Apply SISA to classification problem with NN (MNIST)
-- Apply SISA to classification problem with KNN (ml-100k)
-- Deploy SISA on seperate servers on AWS
+- Apply SISA to classification problem with KNN (ml-100k) (Still Debugging)
+- Deploy SISA on seperate servers on AWS (Ongoing)
 
 
 Paper Source:
