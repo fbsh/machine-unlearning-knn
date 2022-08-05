@@ -1,4 +1,4 @@
-This is a repo for refactoring machine unlearning framework, SISA, with KNN model.
+This is a repo for refactoring machine unlearning framework, SISA.
 
 Data source: 
 - ml-100k from https://grouplens.org/datasets/movielens/100k/
